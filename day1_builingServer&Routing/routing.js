@@ -1,4 +1,3 @@
-import { log } from 'console'
 import http from 'http'
 const server=http.createServer((req,res)=>{
     // console.log("server is hit by someone");
